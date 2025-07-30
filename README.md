@@ -59,5 +59,5 @@ Click the badge above.
 ```bash
 git clone https://github.com/rileybarka/Lab-2-Airbnb-Data-Preparation.git
 cd Lab-2-Airbnb-Data-Preparation/notebooks
-jupyter notebook Lab2_Data_Preparation.ipynb
+jupyter notebook Lab2.ipynb
 
